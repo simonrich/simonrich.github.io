@@ -84,7 +84,7 @@ author:
   avatar           : "SimonRichter_quad.jpg"
   bio              : "I am a political scientist with special interest in political communication as well as political attitudes and behaviour."
   location         : "Berlin, Germany"
-  employer         : "Freie Universität Berlin"
+  employer         : # "Freie Universität Berlin"
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=kvs-T0MAAAAJ&hl=de"
   email            : "simon.richter@fu-berlin.de"

@@ -12,7 +12,9 @@ I am a political scientist and PhD candidate in the [Otto-Suhr-Institut für Pol
 
 I teach undergrad courses at Freie Universität Berlin, namely "Introduction in Political Communication" and "Election Campaign Research" and previously taught introductory courses on statistics at the Johannes Gutenberg University of Mainz.
 
-Publications
+I studied political science in a joint MA programme at Universität Konstanz, Germany and Universitat Pompeu Fabra, Spain. I was also working as campaign staff at the 2016 election campaign 
+
+###Publications
 ======
 Simon Richter, Berend Barkela, Thorsten Faas, Jürgen Maier, Michaela Maier: TV-Duelle, in: Sigrid Roßteutscher, Rüdiger Schmitt-Beck, Harald Schoen, Bernhard Weßels, Christof Wolf et al. (Hrsg.): Zwischen Polarisierung und Beharrung: Die Bundestagswahl 2017, Baden-Baden: Nomos, 2019, S. 309–323.
 
@@ -21,6 +23,6 @@ Thorsten Faas, Jürgen Maier, Michaela Maier, Simon Richter: Populismus in Echtz
 Richter, Simon: Cem oder Otto? Die Wahrnehmung von Politikern mit Migrationshintergrund in Deutschland. In: Ibrahim Ghubbar, Beate Pohlers und Franca Schreiber (Hrsg.): Die Politik auf dem Siegertreppchen? Wenn Olympia, WM und Co. zum Spielball strategischer Kommunikation werden, Berlin: Frank & Timme (Düsseldorfer Forum Politische Kommunikation, 5), 2015, S. 241–255.
 
 
-Working Papers
+###Working Papers
 ======
 Through the Eyes of Others.
