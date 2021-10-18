@@ -2,7 +2,7 @@
 title: "TV-Duelle"
 collection: publications
 permalink: /publication/2019-Richter-Et-Al-TV-Duelle
-excerpt: 'Chapter in an edited Volume on the televised debates during the 2017 election campaign with experimental evidence on its perception by voters.'
+excerpt: '(with Berend Barkela, Prof. Dr. Thorsten Faas, Prof. Dr. Jürgen Maier & Prof. Dr. Michaela Maier) Chapter in an edited Volume on the televised debates during the 2017 election campaign with experimental evidence on its perception by voters.'
 date: 2019-03-03
 venue: 'Edited Volume: Zwischen Polarisierung und Beharrung: Die Bundestagswahl 2017'
 paperurl: 'https://www.nomos-elibrary.de/10.5771/9783845287607/zwischen-polarisierung-und-beharrung-die-bundestagswahl-2017'
