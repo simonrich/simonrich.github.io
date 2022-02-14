@@ -14,5 +14,5 @@ I do research on citizens interaction with politics in (mostly) democratic polit
 
 - Through the Eyes of Others - Social Opinion Monitoring in a televised debate, Working Paper (single authored), presented at AK PolKomm (DVPW, DGPuK & SGKM), February 2019. [Link to Preprint](https://osf.io/m8ywv/)
 - Social Media and the Perception of a TV Debate, Working Paper (with Prof. Dr. Thorsten Faas), under review.
-- The Changing Relationship between Emotion and Voting Behavior, Working Paper (with Tristan Klingelhöfer & Nicole Loew). Accepted for panel presentation @ EPSA 2022 in Prague, Czech Republic.
+- The Changing Relationship between Emotion and Voting Behavior, Working Paper (with Tristan Klingelhöfer & Nicole Loew), accepted for panel presentation @ EPSA 2022 in Prague, Czech Republic.
 - How Anti-lockdown Protests Affect Public Opinion, Working Paper (with Dr. Sebastian Hellmeier)
