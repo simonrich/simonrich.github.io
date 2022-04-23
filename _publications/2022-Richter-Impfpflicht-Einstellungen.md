@@ -5,7 +5,7 @@ permalink: /publication/2022-Richter-Impfpflicht-Einstellungen
 excerpt: '(with Prof. Dr. Thorsten Faas, Dr. Philippe Joly & Dr. David Schieferdecker) Policy Brief on attitudes of German population on mandatory covid vaccines.'
 date: 2022-05-05
 venue: 'RAPID-COVID Policy Brief'
-paperurl: 'https://journals.sagepub.com/doi/full/10.1177/14651165211051171'
+paperurl: 'https://refubium.fu-berlin.de/handle/fub188/34741'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 (with Prof. Dr. Thorsten Faas, Dr. Philippe Joly & Dr. David Schieferdecker)
