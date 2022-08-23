@@ -2,7 +2,7 @@
 title: "Digitale soziale Kontexte in Wahlkämpfen - Studien zu Online-Kommentaren während TV-Duellen"
 collection: publications
 permalink: /publication/2022-Richter-Digitale-soziale-Kontexte
-excerpt: '(in German) dissertation'
+excerpt: '(in German) Dissertationsschrift'
 date: 2022-06-21
 venue: ''
 paperurl: 'https://refubium.fu-berlin.de/handle/fub188/34949'
