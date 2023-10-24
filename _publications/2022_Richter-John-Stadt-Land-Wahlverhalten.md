@@ -2,7 +2,7 @@
 title: "Stadt, Land, Wahlverhalten: Die politische Geographie der Bundestagswahl 2021"
 collection: publications
 permalink: /publication/2022-Richter-John-Stadt-Land-Wahlverhalten
-excerpt: '(in German) Paper'
+excerpt: '(with Stefanie John) Paper on the urban rural divide in the German national election 2021'
 date: 2022-12-01
 venue: 'Heinrich-Böll-Stiftung'
 paperurl: 'https://www.boell.de/de/2023/07/28/stadt-land-wahlverhalten'

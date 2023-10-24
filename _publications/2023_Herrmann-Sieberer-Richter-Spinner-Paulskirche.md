@@ -2,7 +2,7 @@
 title: "Voting in the Frankfurt Assembly Dataset"
 collection: publications
 permalink: /publication/2023-Herrmann-Sieberer-Richter-Spinner-Paulskirche
-excerpt: 'Dateset on roll call votes in the Paulskirchenparlament'
+excerpt: '(with Michael Herrmann, Ulrich Sieberer and Christian Spinner) Dateset on roll call votes in the Paulskirchenparlament'
 date: 2023-09-23
 venue: 'Harvard Dataverse'
 paperurl: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E8XB5N&version=1.0'
