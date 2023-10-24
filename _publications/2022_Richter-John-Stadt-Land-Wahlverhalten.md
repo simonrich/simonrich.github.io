@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-Richter-John-Stadt-Land-Wahlverhalten
 excerpt: '(with Stefanie John) Paper on the urban rural divide in the German national election 2021'
 date: 2022-12-01
-venue: 'Heinrich-Böll-Stiftung'
+venue: 'böll.brief Demokratie & Gesellschaft'
 paperurl: 'https://www.boell.de/de/2023/07/28/stadt-land-wahlverhalten'
-citation: 'Richter, Simon & John, Stefanie (2022): Stadt, Land, Wahlverhalten: Die politische Geographie der Bundestagswahl 2021. <i>böll.brief – Demokratie & Gesellschaft</i>.'
+citation: 'Richter, Simon & John, Stefanie (2022): Stadt, Land, Wahlverhalten: Die politische Geographie der Bundestagswahl 2021. <i>böll.brief – Demokratie & Gesellschaft #32</i>.'
 
 ---
 
@@ -14,4 +14,4 @@ citation: 'Richter, Simon & John, Stefanie (2022): Stadt, Land, Wahlverhalten: D
 
 [Download paper here](https://www.boell.de/de/2023/07/28/stadt-land-wahlverhalten)
 
-Recommended citation:   Richter, Simon (2022): Digitale soziale Kontexte in Wahlkämpfen: Studien zu Online-Kommentaren während TV-Duellen. <i>Freie Universität Berlin</i>.
+Recommended citation:   Richter, Simon & John, Stefanie (2022): Stadt, Land, Wahlverhalten: Die politische Geographie der Bundestagswahl 2021. <i>böll.brief – Demokratie & Gesellschaft #32</i>.
